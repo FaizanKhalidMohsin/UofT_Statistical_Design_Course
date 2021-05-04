@@ -1,0 +1,166 @@
+FAKE_HCN,FNAME,LNAME,DOB,CITY,SEX,EDUCATION,MARITAL_STATUS
+9999999911,Homer,Simpson,01-Jan-50,Toronto,M,2,Y
+9999999911,HOMER,Simpson,01-Jan-50,TORONTO,M,2,Y
+9999999911,HOMER,SIMPSON,01-Jan-50,Toront,M,2,Y
+9999999911,HoMER,simpson,01-Jan-50,Tor,M,2,Y
+9999999911,HOMER,SIMPSON,01-Jan-50,6ix,M,2,Y
+9999999916,Marge,Simpson,24-Mar-70,Toronto,F,3,Y
+9999999916,Marge,Simpson,24-Mar-70,Toronto,F,3,Y
+9999999916,Marge,Simpson,24-Mar-70,Toronto,F,3,Y
+9999999916,Marge,Simpson,24-Mar-70,Toronto,F,3,Y
+9999999916,Marge,Simpson,24-Mar-70,Toronto,F,3,Y
+9999999916,Marge,Simpson,24-Mar-70,Toronto,F,3,Y
+9999999916,Marge,Simpson,24-Mar-70,Toronto,F,3,Y
+9999999916,Marge,Simpson,24-Mar-70,Toronto,F,3,Y
+9999999916,Marge,Simpson,24-Mar-70,Toronto,F,3,Y
+9999999925,LISA,SIMPSON,24-Apr-00,Toronto,F,1,N
+9999999926,MaGGIE,SimpSON,01-Jan-10,Toronto,F,1,N
+9999999927,NED,FLANDERS,19-Jul-75,North York,M,4,U
+9999999927,NED,FLANDERS,19-Jul-75,North York,M,4,U
+9999999927,NED,FLANDERS,19-Jul-75,North York,M,4,U
+9999999927,NED,FLANDERS,19-Jul-75,North York,M,4,U
+9999999927,NED,FLANDERS,19-Jul-75,North York,M,4,U
+9999999927,NED,FLANDERS,19-Jul-75,North York,M,4,Unknown
+9999999927,NED,FLANDERS,19-Jul-75,North York,M,4,unknown
+9999999927,NED,FLANDERS,19-Jul-75,NorthYork,M,4,UNKNOWN
+9999999935,Akira,,10-Sep-46,Unknown,,9,U
+9999999936,Aristotle,Amadopolis,31-Oct-45,,,9,U
+9999999937,Mary,Bailey,25-Nov-48,,F,9,U
+9999999938,Patty,Bouvier,25-Dec-66,Scarborough,F,3,N
+9999999939,Selma,Bouvier,25-Dec-66,Scarborough,F,3,N
+9999999940,Crazy Cat Lady,,22-Apr-45,Vaughan,F,4,U
+9999999941,Comic Book Guy,,,Vaughan,M,1,Y
+9999999942,Todd,Flanders,12-Sep-89,North York,M,1,N
+9999999943,Alice,Glick,11-Sep-89,Oakville,F,4,N
+9999999944,Barney,GUMBLE,17-Oct-72,Mississauga,M,3,N
+9999999945,HERMAN,HERMAN,10-Jun-51,Mississauga,M,4,N
+9999999946,Elizabeth,HOOVER,01-Sep-49,Mississauga,F,4,Y
+9999999947,Kang,,,Rigel VII,U,9,U
+9999999948,Kodos,,,Rigel VII,U,9,U
+9999999949,Lenny,Leonard,10-Mar-44,Toronto,U,4,N
+9999999950,LEWIS,CLARK,25-Aug-50,Unknown,U,3,N
+9999999951,HELEN,LOVEJOY,15-May-49,?,U,3,Y
+9999999952,OtTO,MANN,14-Feb-78,Pickering,M,1,N
+9999999952,Otto,Mann,14-Feb-78,Pickering,M,1,N
+9999999952,Otto,Mann,14-Feb-78,Pickering,M,1,N
+9999999955,NeLsON,MUNTZ,17-Apr-88,Whitby,M,1,N
+9999999956,Lindsey,Naegle,15-Apr-48,Whitby,F,2,N
+9999999957,Apu,Nahasapeemapetilon,10-Sep-68,Markham,M,4,N
+9999999958,Arnie,Pye,17-Nov-78,Milton,M,3,N
+9999999959,Herbert,Powell,10-Oct-51,Georgetown,M,3,N
+9999999960,Janey,Powell,18-Jan-53,Brampton,F,3,N
+9999999961,Ruth,Powers,18-Jan-48,Brampton,F,3,N
+9999999962,Martin,Prince,27-Mar-83,Brampton,U,1,N
+9999999963,Loren,Pryor,17-Jul-64,Brampton,F,1,N
+9999999964,Joe,Quimby,27-May-61,Toronto,,1,N
+9999999965,Dave,Shutton,22-Jul-51,Hamilton,,1,N
+9999999966,Robert,Terwilliger,25-Jan-52,Hamilton,,1,N
+9999999967,Sideshow,Mel,15-Sep-59,Hamilton,,4,Y
+9999999967,Sideshow,Mel,15-Sep-59,Hamilton,,4,Y
+9999999967,Sideshow,Mel,15-Sep-59,Hamilton,,4,Y
+9999999970,Abe,Simpson,19-Jan-40,Richmond Hill,M,2,Y
+9999999971,Amber,Simpson,09-May-39,Richmond Hill,F,2,Y
+9999999972,Mona,Simpson,14-Jun-37,Richmond Hill,F,3,Y
+9999999973,Agnes,Skinner,17-Apr-30,Markham,F,2,Y
+9999999974,Seymour,Skinner,27-Aug-65,Scarborough,M,2,Y
+9999999976,Roy,Synder,03-Jul-49,Guelph,M,1,N
+9999999977,Moe,Szyslak,07-Aug-46,Guelph,M,2,N
+9999999978,Cecil,Terwilliger,10-Mar-51,Guelph,F,1,N
+9999999979,Johnny,Tightlips,18-Jun-88,London,M,4,N
+9999999980,Uter,Zorker,01-Nov-40,London,M,1,N
+9999999981,Milhouse,Van Houten,06-Jun-88,Kirby,M,1,N
+9999999981,Milhouse,Van Houten,06-Jun-88,Kirby,M,1,N
+9999999983,Kirk,Van Houten,02-Jul-49,Kirby,M,3,Y
+9999999984,Luann,Van Houten,09-Sep-49,Kirby,F,3,Y
+9999999985,Clancy,Wiggum,19-May-51,Oshawa,M,1,Y
+9999999986,Ralph,Wiggum,29-Apr-91,Oshawa,M,1,N
+9999999987,Sarah,Wiggum,09-Jun-49,Oshawa,F,2,Y
+9999999988,Artie,Ziff,09-Jun-51,Aurora,M,4,N
+9999999989,Kearney,Zzyzwicz,07-Jul-77,Aurora,M,1,N
+9999999991,WAYLON,SMITHERS,01-Oct-78,Newmarket,M,4,N
+9999999991,WAYLON,SMITHERS,01-Oct-78,Newmarket,M,4,N
+9999999992,Gary,Goodspeed,21-Sep-51,Toronto,M,2,N
+9999999993,KVN,,24-Jan-51,Vaughan,M,1,N
+9999999994,H.U.E.,,14-Apr-42,North York,M,4,N
+9999999995,The Lord,Commander,11-Aug-52,Richmond Hill,M,4,N
+9999999996,Quinn,Airgone,29-Sep-82,Toronto,F,4,N
+9999999997,Little,Cato,09-Nov-92,Vaughan,M,3,N
+9999999998,Avocato,Bhero,19-Jun-47,Vaughan,M,2,Y
+9999999999,Tribore,Menendez,02-Jul-37,North York,M,1,N
+9999999700,John,Goodspeed,01-Dec-51,Toronto,M,4,Y
+9999999701,Superior,Stone,13-Nov-45,Newmarket,M,4,N
+9999999702,Leslie ,Knope,18-Jan-75,Hamilton,F,4,Y
+9999999703,April,Ludgate,10-Aug-85,Peterborough,F,3,N
+9999999704,Andy,Dwyer,10-Aug-82,Fraserville,M,2,N
+9999999705,Ann,Perkins,10-Aug-47,North York,F,4,Y
+9999999706,Jerry,Gergich,20-Apr-49,Toronto,M,4,Y
+9999999707,Ben ,Wyatt,03-Jul-79,Ajax,M,4,Y
+9999999708,Chris,Traeger,13-Mar-69,TOR,M,4,Y
+9999999709,Mark,Brendanawicz,19-Sep-51,TOR,M,4,N
+9999999710,Craig,Middlebrooks,11-Jan-46,North York,M,4,N
+9999999711,Jean-Ralphio,Saperstein,21-Feb-86,Richmond Hill,M,1,N
+9999999712,Linda,Lonegan,11-Dec-52,Peterborough,F,2,N
+9999999713,Marlene,Griggs-Knope,31-Oct-49,Oakville,F,4,Y
+9999999714,Mona-Lisa,Saperstein,12-Jul-89,Richmond Hill,F,1,N
+9999999715,Tammy,Swanson,02-Apr-51,Ajax,F,2,N
+9999999716,Wendy,Haverford,12-Jun-90,toronto,F,3,Y
+9999999717,Diane,Lewis-Swanson,16-Aug-70,toronto,F,4,Y
+9999999718,Gayle,Gergich,01-Sep-50,Toronto,F,3,Y
+9999999719,Gladys,Gergich,01-Feb-70,Toronto,F,3,Y
+9999999720,Miriam,Gergich,09-Apr-80,Toronto,F,3,Y
+9999999721,Bill,Dexhart,19-Jul-40,Scarborough,M,1,N
+9999999722,Carl,Lorthner,19-Sep-45,Scarborough,M,1,N
+9999999723,George,Williams,19-Feb-53,Ajax,M,1,Y
+9999999724,Perd,Hapley,18-May-51,Markham,M,1,Y
+9999999725,Shauna,Malwae-Tweep,11-Jul-81,Markham,F,3,N
+9999999726,Kim,Terlando,25-May-51,Markham,F,1,Y
+9999999727,Marcia,Langman,15-Jun-50,Markham,F,2,Y
+9999999728,Kelly,Larson,17-May-51,Toronto,F,1,Y
+9999999729,Jessica,Wicks,27-Nov-51,Toronto,F,1,Y
+9999999730,Bobby,Newport,13-Dec-85,Toronto,M,1,N
+9999999731,Trish,Ianetta,11-Nov-52,Uxbridge,F,3,N
+9999999732,Greg,Pikitis,14-Jan-89,Uxbridge,M,1,N
+9999999733,Jennifer,Barkley,24-May-51,Pickering,F,1,N
+9999999734,Paul,Iaresco,14-Jun-50,Richmond Hill,M,2,N
+9999999735,Ethel,Beavers,29-May-30,Toronto,F,1,N
+9999999736,Jeff,Winger,22-Mar-49,Toronto,M,2,N
+9999999737,Britta,Perry,21-Feb-83,Toronto,F,2,N
+9999999738,Abed,Nadir,11-Mar-87,Scarborough,M,2,N
+9999999739,Shirley,Bennett,12-Sep-47,North York,F,2,Y
+9999999740,Alison,Brie,22-Oct-87,Vaughan,F,2,N
+9999999741,Troy,Barnes,29-Sep-87,Scarborough,M,2,N
+9999999742,Ben ,Chang,18-Jun-47,Newmarket,M,1,N
+9999999743,Pierce,Hawthorne,28-Sep-47,Vaughan,M,2,N
+9999999744,Craig ,Pelton,16-May-77,Richmond Hill,M,3,N
+9999999745,Alex,Osbourne,12-Jun-50,Markham,M,2,N
+9999999746,Michelle,Slater,17-Jul-78,Toronto,F,4,N
+9999999747,Ian,Duncan,19-Jun-74,Oakville,M,4,N
+9999999748,Sean,Garrity,11-Jul-51,Markham,M,4,N
+9999999749,June,Bauer,11-Jan-50,Peterborough,F,4,N
+9999999750,Buzz,Hickey,19-Jun-50,Oakville,M,4,N
+9999999751,Garrett,Lambert,29-Jul-80,Scarborough,M,2,N
+9999999752,Todd,Jacobson,20-Oct-51,Scarborough,M,2,Y
+9999999753,Vaughn,Miller,21-Nov-86,Toronto,M,2,N
+9999999754,Leonard,Rodriguez,21-Dec-36,Toronto,M,2,N
+9999999755,Elroy,Patashnik,21-Dec-56,Markham,M,2,N
+9999999756,Inspector,Spacetime,22-Nov-26,,M,4,N
+9999999757,Constable,Reggie,02-Jan-29,,M,4,N
+9999999758,Kick,Puncher,01-Jan-50,,,4,Y
+9999999759,Evil,Abed,09-Sep-50,Scarborough,M,4,Y
+9999999760,Rich,Stephenson,09-Jan-48,Markham,M,2,N
+9999997760,Andre,Bennett,19-Nov-58,Markham,M,3,Y
+9999998761,Liz ,Lemon,19-Oct-68,Toronto,F,4,Y
+9999998760,Jenna,Maroney,16-Aug-47,Toronto,F,2,N
+9999998759,Cerie,Xerox,13-Jan-87,Toronto,F,2,Y
+9999998758,Leo,Spaceman,14-Mar-52,Toronto,M,4,Y
+9999998757,Sue,Vanderhout,14-Dec-45,Toronto,F,3,Y
+9999998756,Hazel,Wassername,13-Oct-45,Toronto,F,3,Y
+9999998755,Greta,Johansen,13-Dec-51,Toronto,F,2,Y
+9999998754,Elisa,Pedrera,13-Dec-90,Toronto,F,2,Y
+9999998753,Nancy,Donovan,16-Oct-50,Toronto,F,2,Y
+9999998752,Avery,Jessup,16-Nov-82,Toronto,F,4,N
+9999998751,Mike,Dexter,15-Dec-75,Toronto,M,4,Y
+9999998750,Kaylie,Hooper,15-Feb-85,Toronto,F,1,N
+9999998749,Angie,Jordan,25-Mar-50,Toronto,F,3,Y
+9999998748,Kathy,Geiss,15-Apr-52,Toronto,F,1,Y
+9999998743,Colleen,Donaghy,15-Apr-32,Toronto,F,1,Y
